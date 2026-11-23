@@ -1,0 +1,6 @@
+{
+  "name": "Currency Derivatives Exam",
+  "description": "Exam demo page replicating the exact layout, questions, spacing, and styling of certification mock exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
